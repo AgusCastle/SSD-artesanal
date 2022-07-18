@@ -1,0 +1,7 @@
+*.tar
+*.rar
+*.json
+__pycache__
+*.jpg
+*.PNG
+*.gif
